@@ -4,13 +4,9 @@
 # inspiration: https://github.com/mswang12/minDQN/blob/main/minDQN.py
 
 # import libraries
-import time
 import numpy as np
-import torch as T
-import mss
 import mss.tools
 import keyboard
-import cv2
 import utils
 
 CAPTURE_BOX = {
